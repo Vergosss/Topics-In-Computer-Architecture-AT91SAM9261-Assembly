@@ -21,4 +21,4 @@ BNE LOOP
 MOV PC,R14
 .data
 Stor:
-.byte 0
+.byte 0,0,0,0,0,0,0
